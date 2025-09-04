@@ -10,6 +10,7 @@ C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Infrastructure\obj\Debu
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Infrastructure\obj\Debug\net8.0\Booking.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Infrastructure\obj\Debug\net8.0\Booking.Infrastructure.AssemblyInfo.cs
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Infrastructure\obj\Debug\net8.0\Booking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Infrastructure\obj\Debug\net8.0\Booking.Infrastructure.sourcelink.json
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Infrastructure\obj\Debug\net8.0\Booking..0212B810.Up2Date
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Infrastructure\obj\Debug\net8.0\Booking.Infrastructure.dll
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Infrastructure\obj\Debug\net8.0\refint\Booking.Infrastructure.dll

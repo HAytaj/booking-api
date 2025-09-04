@@ -1,12 +1,119 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\My Projects\\BookingSolution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B11B5-36D8-49A8-8527-770831776BA8}|Booking.Infrastructure\\Booking.Infrastructure.csproj|c:\\users\\msi\\desktop\\my projects\\bookingsolution\\booking.infrastructure\\inmemory\\inmemoryhomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6B11B5-36D8-49A8-8527-770831776BA8}|Booking.Infrastructure\\Booking.Infrastructure.csproj|solutionrelative:booking.infrastructure\\inmemory\\inmemoryhomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76984D0B-D726-4EA3-B6AE-2125D559275A}|Booking.Api\\Booking.Api.csproj|c:\\users\\msi\\desktop\\my projects\\bookingsolution\\booking.api\\controllers\\availablehomescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76984D0B-D726-4EA3-B6AE-2125D559275A}|Booking.Api\\Booking.Api.csproj|solutionrelative:booking.api\\controllers\\availablehomescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BFF3CE-328D-4781-9FF2-B6D0E05772A7}|Booking.Tests\\Booking.Tests.csproj|c:\\users\\msi\\desktop\\my projects\\bookingsolution\\booking.tests\\availablehomesendpointtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BFF3CE-328D-4781-9FF2-B6D0E05772A7}|Booking.Tests\\Booking.Tests.csproj|solutionrelative:booking.tests\\availablehomesendpointtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577747F7-8937-42C0-9CF3-6150442B2DE6}|Booking.Application\\Booking.Application.csproj|c:\\users\\msi\\desktop\\my projects\\bookingsolution\\booking.application\\contracts\\availablehomesdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577747F7-8937-42C0-9CF3-6150442B2DE6}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\contracts\\availablehomesdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577747F7-8937-42C0-9CF3-6150442B2DE6}|Booking.Application\\Booking.Application.csproj|c:\\users\\msi\\desktop\\my projects\\bookingsolution\\booking.application\\abstract\\iavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577747F7-8937-42C0-9CF3-6150442B2DE6}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\abstract\\iavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577747F7-8937-42C0-9CF3-6150442B2DE6}|Booking.Application\\Booking.Application.csproj|c:\\users\\msi\\desktop\\my projects\\bookingsolution\\booking.application\\concrete\\availabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577747F7-8937-42C0-9CF3-6150442B2DE6}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\concrete\\availabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InMemoryHomeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\My Projects\\BookingSolution\\Booking.Infrastructure\\InMemory\\InMemoryHomeRepository.cs",
+              "RelativeDocumentMoniker": "Booking.Infrastructure\\InMemory\\InMemoryHomeRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\My Projects\\BookingSolution\\Booking.Infrastructure\\InMemory\\InMemoryHomeRepository.cs",
+              "RelativeToolTip": "Booking.Infrastructure\\InMemory\\InMemoryHomeRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:19:42.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AvailableHomesController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\My Projects\\BookingSolution\\Booking.Api\\Controllers\\AvailableHomesController.cs",
+              "RelativeDocumentMoniker": "Booking.Api\\Controllers\\AvailableHomesController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\My Projects\\BookingSolution\\Booking.Api\\Controllers\\AvailableHomesController.cs",
+              "RelativeToolTip": "Booking.Api\\Controllers\\AvailableHomesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:18:41.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAvailabilityService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\My Projects\\BookingSolution\\Booking.Application\\Abstract\\IAvailabilityService.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\Abstract\\IAvailabilityService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\My Projects\\BookingSolution\\Booking.Application\\Abstract\\IAvailabilityService.cs",
+              "RelativeToolTip": "Booking.Application\\Abstract\\IAvailabilityService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:14:11.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AvailableHomesDtos.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\My Projects\\BookingSolution\\Booking.Application\\Contracts\\AvailableHomesDtos.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\Contracts\\AvailableHomesDtos.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\My Projects\\BookingSolution\\Booking.Application\\Contracts\\AvailableHomesDtos.cs",
+              "RelativeToolTip": "Booking.Application\\Contracts\\AvailableHomesDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:10:41.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AvailabilityService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\My Projects\\BookingSolution\\Booking.Application\\Concrete\\AvailabilityService.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\Concrete\\AvailabilityService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\My Projects\\BookingSolution\\Booking.Application\\Concrete\\AvailabilityService.cs",
+              "RelativeToolTip": "Booking.Application\\Concrete\\AvailabilityService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:10:15.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AvailableHomesEndpointTests.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\My Projects\\BookingSolution\\Booking.Tests\\AvailableHomesEndpointTests.cs",
+              "RelativeDocumentMoniker": "Booking.Tests\\AvailableHomesEndpointTests.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\My Projects\\BookingSolution\\Booking.Tests\\AvailableHomesEndpointTests.cs",
+              "RelativeToolTip": "Booking.Tests\\AvailableHomesEndpointTests.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwDYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:09:17.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

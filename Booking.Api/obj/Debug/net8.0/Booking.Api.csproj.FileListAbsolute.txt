@@ -24,6 +24,7 @@ C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\Bo
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\Booking.Api.csproj.CoreCompileInputs.cache
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\Booking.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\Booking.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\Booking.Api.sourcelink.json
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -32,6 +33,7 @@ C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\st
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\Booking..001CFEE1.Up2Date
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\Booking.Api.dll
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Api\obj\Debug\net8.0\refint\Booking.Api.dll

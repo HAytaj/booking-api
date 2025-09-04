@@ -1,8 +1,8 @@
 ﻿using Booking.Application.Abstract;
-using Microsoft.AspNetCore.Http;
+using Booking.Application.Contracts;
 using Microsoft.AspNetCore.Mvc;
 using System.Globalization;
-using static Booking.Application.Contracts.AvailableHomesDtos;
+
 
 namespace Booking.Api.Controllers
 {

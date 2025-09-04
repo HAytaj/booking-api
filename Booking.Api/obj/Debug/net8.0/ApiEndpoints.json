@@ -20,7 +20,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Booking.Application.Contracts.AvailableHomesDtos\u002BAvailableHomesResponse",
+        "Type": "Booking.Application.Contracts.AvailableHomesResponse",
         "MediaTypes": [
           "text/plain",
           "application/json",

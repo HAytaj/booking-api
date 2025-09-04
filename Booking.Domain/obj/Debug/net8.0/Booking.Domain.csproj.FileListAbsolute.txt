@@ -5,6 +5,7 @@ C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Domain\obj\Debug\net8.0
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Domain\obj\Debug\net8.0\Booking.Domain.AssemblyInfoInputs.cache
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Domain\obj\Debug\net8.0\Booking.Domain.AssemblyInfo.cs
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Domain\obj\Debug\net8.0\Booking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Domain\obj\Debug\net8.0\Booking.Domain.sourcelink.json
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Domain\obj\Debug\net8.0\Booking.Domain.dll
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Domain\obj\Debug\net8.0\refint\Booking.Domain.dll
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Domain\obj\Debug\net8.0\Booking.Domain.pdb

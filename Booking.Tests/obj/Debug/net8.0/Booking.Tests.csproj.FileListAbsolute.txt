@@ -436,6 +436,7 @@ C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Tests\obj\Debug\net8.0\
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Tests\obj\Debug\net8.0\Booking.Tests.AssemblyInfoInputs.cache
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Tests\obj\Debug\net8.0\Booking.Tests.AssemblyInfo.cs
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Tests\obj\Debug\net8.0\Booking.Tests.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Tests\obj\Debug\net8.0\Booking.Tests.sourcelink.json
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Tests\obj\Debug\net8.0\Booking..D0746686.Up2Date
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Tests\obj\Debug\net8.0\Booking.Tests.dll
 C:\Users\MSI\Desktop\My Projects\BookingSolution\Booking.Tests\obj\Debug\net8.0\refint\Booking.Tests.dll

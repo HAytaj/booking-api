@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,14 +11,19 @@ namespace Booking.Domain.Concrete
     {
         public string Id { get; }
         public string Name { get; }
-        public HashSet<DateOnly> AvailableDates { get; }
+        public ConcurrentDictionary<DateOnly, byte> AvailableDates { get; }
 
 
         public Home(string id, string name, IEnumerable<DateOnly> availableDates)
         {
             Id = id;
             Name = name;
-            AvailableDates = [.. availableDates];
+            AvailableDates = new ConcurrentDictionary<DateOnly, byte>();
+
+            foreach (var date in availableDates)
+            {
+                AvailableDates.TryAdd(date, 0);
+            }
         }
     }
 }
