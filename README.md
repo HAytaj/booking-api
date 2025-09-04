@@ -70,3 +70,6 @@ Replace the seed data with dynamic loaders.
 Add more tests (bad input, empty results, long ranges).
 
 Propagate CancellationToken across layers.
+
+
+![.NET CI](https://github.com/<YourUsername>/<YourRepoName>/actions/workflows/ci.yml/badge.svg)
